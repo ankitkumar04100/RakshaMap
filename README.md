@@ -220,7 +220,7 @@ Users may optionally report unsafe locations or incidents, allowing the system t
 
 This user flow ensures that RakshaMap delivers actionable safety intelligence while remaining simple, intuitive, and effective for everyday use.
 
-### User Flow Daigram
+### User Flow Diagram
 
 <img width="1536" height="1024" alt="Designer (23)" src="https://github.com/user-attachments/assets/64365da9-a3c7-4f8a-b9e7-a841d6a5a215" />
 
@@ -402,7 +402,7 @@ External mapping services are used to render base maps, routes, and spatial over
 
 This architecture ensures scalability, reliability, and effective integration of AI-driven safety intelligence into real-world navigation scenarios.
 
-### Arhitecture Daigram
+### Arhitecture Diagram
 
 <img width="1536" height="1024" alt="Designer (22)" src="https://github.com/user-attachments/assets/58f243f3-cc1d-4718-b654-53e5bd400886" />
 
