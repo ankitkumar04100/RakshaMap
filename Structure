@@ -1,0 +1,50 @@
+RakshaMap/
+│
+├── README.md                 # Project documentation 
+├── LICENSE                   # MIT or Apache 2.0
+├── .gitignore                # Ignore venv, node_modules, large datasets, database files
+├── requirements.txt          # Python dependencies for backend & AI
+├── package.json              # Frontend Node/React dependencies
+│
+├── frontend/    # React app for UI
+│   │
+│   ├──package.json 
+│   │
+│   ├── src/
+│   │   ├── App.js                  # Main React app component
+│   │   ├── components/             # Modular React components
+│   │   │   ├── MapView.js          # Interactive map with risk zones
+│   │   │   ├── RiskAlert.js        # Real-time alerts
+│   │   │   ├── Navbar.js           # Navigation bar
+│   │   │   └── Footer.js           # Footer
+│   │   └── styles/                 # CSS / SCSS styles
+│   │       ├── App.css
+│   │       ├── MapView.css
+│   │       └── RiskAlert.css
+│   └── public/
+│       └── index.html
+│ 
+├── backend/                  # FastAPI backend
+│   ├── main.py               # Entry point
+│   ├── api_routes.py         # REST API endpoints
+│   ├── models.py             # AI & DB models
+│   ├── utils.py              # Helper functions
+│   └── database.db           # SQLite prototype database 
+│
+├── ai_model/                 # Machine Learning model
+│   ├── train_model.py        # Script to train AI model
+│   ├── predict_model.py      # Script to run predictions
+│   ├── model.pkl             # Serialized trained model
+│   └── dataset/              # Sample or simulated dataset
+│       └── incidents.csv
+│
+├── diagrams/                 # Visual assets for PPT & documentation
+│   ├── architecture.png
+│   ├── user_flow.png
+│
+├── demo/                     # Demo video or GIF
+│   └── RakshaMap_Demo.mp4
+│
+└── docs/                     
+    └──project_proposal.pdf
+    
