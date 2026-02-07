@@ -1,0 +1,24 @@
+{
+  "name": "rakshamap-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for RakshaMap: AI-Powered Women-Centric Safety Mapper",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "axios": "^1.5.0",
+    "leaflet": "^1.9.5",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.16.0"
+  },
+  "devDependencies": {},
+  "author": "Ankit Kumar",
+  "license": "MIT"
+}
