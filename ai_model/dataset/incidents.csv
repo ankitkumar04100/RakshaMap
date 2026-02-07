@@ -1,0 +1,6 @@
+latitude,longitude,time_of_day,severity,description
+28.6139,77.209,21:30,8,High-risk street near metro station
+28.6145,77.203,18:45,3,Moderate risk near park
+28.6200,77.210,23:00,9,High-risk area at night
+28.6150,77.215,07:30,2,Safe street in morning
+28.6100,77.220,19:15,6,Moderate risk near busy road
