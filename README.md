@@ -4,7 +4,7 @@
 
 RakshaMap is an AI-driven public safety intelligence platform designed to proactively enhance women’s safety in public spaces. Built as part of an AI for Good initiative, RakshaMap transforms safety from a reactive response into a predictive, data-driven system that helps individuals and communities make safer mobility decisions.
 
-[RakshaMap](https://rakshamapai.lovable.app)
+[RakshaMap App Demo](https://rakshamapai.lovable.app)
 
 ---
 
