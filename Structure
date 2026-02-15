@@ -3,8 +3,6 @@ RakshaMap/
 ├── README.md                 # Project documentation 
 ├── LICENSE                   # MIT or Apache 2.0
 ├── .gitignore                # Ignore venv, node_modules, large datasets, database files
-├── requirements.txt          # Python dependencies for backend & AI
-├── package.json              # Frontend Node/React dependencies
 │
 ├── frontend/    # React app for UI
 │   │
@@ -29,7 +27,8 @@ RakshaMap/
 │   ├── api_routes.py         # REST API endpoints
 │   ├── models.py             # AI & DB models
 │   ├── utils.py              # Helper functions
-│   └── database.db           # SQLite prototype database 
+│   ├── database.db           # SQLite prototype database 
+│   └── requirements.txt          # Python dependencies for backend & AI 
 │
 ├── ai_model/                 # Machine Learning model
 │   ├── train_model.py        # Script to train AI model
