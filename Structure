@@ -41,8 +41,8 @@ RakshaMap/
 │   ├── architecture.png
 │   ├── user_flow.png
 │
-├── demo/                     # Demo video or GIF
-│   └── RakshaMap_Demo.mp4
+├── demo_app,video&screenshots            # Demo App, Video & Screenshots
+│
 │
 └── docs/                     
     └──project_proposal.ppt
